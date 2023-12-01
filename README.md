@@ -25,10 +25,4 @@ https://drive.google.com/drive/folders/1CyRpe-uADqTpcOlKk7TLk4POsj3nmt4u?usp=sha
    pip install -r requirements.txt
    ```
 
-## Acknowledgements
-- Hugging Face for the transformer models.
-Link to the model -> https://huggingface.co/cardiffnlp/twitter-roberta-base-sentiment-latest
-- CardiffNLP for the Twitter RoBERTa model.
-Link to the model -> https://huggingface.co/nlptown/bert-base-multilingual-uncased-sentiment
-- Yelp for the dataset.
-Link to the Yelp dataset -> https://www.yelp.com/dataset
+
