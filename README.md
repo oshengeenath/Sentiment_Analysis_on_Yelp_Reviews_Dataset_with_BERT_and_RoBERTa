@@ -1,7 +1,4 @@
-# Sentiment Analysis on Yelp Reviews with BERT and RoBERTa
 
-## Project Overview
-This repository contains the code and documentation for performing sentiment analysis on Yelp reviews using two state-of-the-art models: Hugging Face's bert-base-multilingual-uncased and cardiffnlp/twitter-roberta-base-sentiment-latest. The project aims to compare these models' effectiveness in analyzing sentiments expressed in Yelp reviews.
 
 #### Access our models through this link 
 https://drive.google.com/drive/folders/1CyRpe-uADqTpcOlKk7TLk4POsj3nmt4u?usp=sharing
