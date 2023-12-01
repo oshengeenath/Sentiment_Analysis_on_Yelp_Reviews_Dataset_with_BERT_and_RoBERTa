@@ -9,28 +9,22 @@ This repository contains the code and documentation for performing sentiment ana
 
 ## Getting Started
 
-### Prerequisites
+### Prerequisites -> `requirements.txt`
 
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone [repository URL]
+   git clone https://github.com/oshengeenath/Sentiment_Analysis_on_Yelp_Reviews_Dataset_with_BERT_and_RoBERTa
    ```
 2. Install required Python packages:
    ```bash
    pip install -r requirements.txt
    ```
 
-## Usage
-1. **Data Preparation**:
-2. **Model Training and Evaluation**:
-   - To train the BERT model: `python train_bert.py`
-   - To train the RoBERTa model: `python train_roberta.py`
-3. **Sentiment Analysis**:
-   - Run `python analyze_sentiments.py` to start the sentiment analysis process.
-   - Results will be saved in the `results/` directory.
-
 ## Acknowledgements
 - Hugging Face for the transformer models.
+Link to the model -> https://huggingface.co/cardiffnlp/twitter-roberta-base-sentiment-latest
 - CardiffNLP for the Twitter RoBERTa model.
+Link to the model -> https://huggingface.co/nlptown/bert-base-multilingual-uncased-sentiment
 - Yelp for the dataset.
+Link to the Yelp dataset -> https://www.yelp.com/dataset
