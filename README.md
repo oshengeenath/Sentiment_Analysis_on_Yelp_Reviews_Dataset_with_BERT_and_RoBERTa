@@ -10,9 +10,6 @@ This repository contains the code and documentation for performing sentiment ana
 ## Getting Started
 
 ### Prerequisites
-- Python 3.6 or later
-- PyTorch
-- Transformers library by Hugging Face
 
 ### Installation
 1. Clone the repository:
